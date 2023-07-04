@@ -10,6 +10,13 @@ Features
  - Order history: Users can view their past orders and keep track of their purchase history.
  - Admin panel: An intuitive administration panel is available for managing games, inventory, and user accounts.
 
+   General View
+   ![firefox_FDKZPYxyMk](https://github.com/RuseCristian/Online-Game-Shop-Django/assets/99805998/27a44f1b-e980-4d40-b958-7915d484b202)
+   
+   Implemented Parallel Threading Search based on game genre. Each specified genre is searched separately in its own thread, and the results are later combined.
+   ![firefox_ezNQLZbEHP](https://github.com/RuseCristian/Online-Game-Shop-Django/assets/99805998/79010de6-8939-4349-930e-efb239a67404)
+
+
 # Technologies Used
 
  - Django: A powerful and flexible web framework that enables rapid development and easy maintenance.
